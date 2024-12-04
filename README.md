@@ -8,6 +8,7 @@
 
 **Gruppe:** Yasemin Gökuyas und Elena Avkova
 
+**Fragestellung:** Welches Land hat die höchste/niedriegste Lebenszufriedenheit? Was sind die Gründe dafür?
 
 
 
